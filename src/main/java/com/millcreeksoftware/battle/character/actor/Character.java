@@ -1,7 +1,7 @@
-package com.millcreeksoftware.battle.actor;
+package com.millcreeksoftware.battle.character.actor;
 
-import com.millcreeksoftware.battle.characterclass.CharacterClass;
-import com.millcreeksoftware.battle.characterclass.Warrior;
+import com.millcreeksoftware.battle.character.characterclass.CharacterClass;
+import com.millcreeksoftware.battle.character.characterclass.Warrior;
 import com.millcreeksoftware.battle.util.Logger;
 
 public class Character {

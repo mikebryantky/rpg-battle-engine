@@ -1,10 +1,10 @@
 package com.millcreeksoftware.battle;
 
-import com.millcreeksoftware.battle.actor.Character;
-import com.millcreeksoftware.battle.characterclass.CharacterClass;
-import com.millcreeksoftware.battle.characterclass.Mage;
-import com.millcreeksoftware.battle.characterclass.Marksman;
-import com.millcreeksoftware.battle.characterclass.Warrior;
+import com.millcreeksoftware.battle.character.actor.Character;
+import com.millcreeksoftware.battle.character.characterclass.CharacterClass;
+import com.millcreeksoftware.battle.character.characterclass.Mage;
+import com.millcreeksoftware.battle.character.characterclass.Marksman;
+import com.millcreeksoftware.battle.character.characterclass.Warrior;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

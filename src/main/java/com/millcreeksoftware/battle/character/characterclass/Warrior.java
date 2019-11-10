@@ -1,4 +1,4 @@
-package com.millcreeksoftware.battle.characterclass;
+package com.millcreeksoftware.battle.character.characterclass;
 
 public class Warrior extends CharacterClass {
 

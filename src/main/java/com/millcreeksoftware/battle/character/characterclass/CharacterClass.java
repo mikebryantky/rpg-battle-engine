@@ -1,4 +1,4 @@
-package com.millcreeksoftware.battle.characterclass;
+package com.millcreeksoftware.battle.character.characterclass;
 
 public abstract class CharacterClass {
 	
