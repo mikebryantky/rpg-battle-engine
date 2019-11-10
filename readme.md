@@ -22,3 +22,21 @@ Attributes:
 	
 Each class has a modifier (+/-) to various attributes. For example, a Warrior might get +2 to Strength and +2 to armor.
 
+## Next Steps
+# Equipment 
+Equipment with attribute modifiers.
+
+Questions to consider:
+1. Should equipment types be restricted to certain classes (should heavy armor be available only to Warriors, or instead require a minimum strength level to equip?)
+2. Equipment classes: *Armor* (Type: cloth, leather, plate and Locations: head, body, legs, feet, etc.), *Weapon* (Types: mele, ranged, magic and one hand/two hand), Trinket (necklace, ring, book, etc.)
+3. Should equipemnt have weight to allow for encumbrance, attack speed, etc.  Of course, Strength would be a factor in terms of how much this would affect the character.
+
+# Leveling
+1. Allow actor to spend X points for each level in attributes of their choice?
+
+# Attributes
+1. Consider adding Luck as an attribute. This would alter all other attributes (+/-) depending on how 'lukcy' the character is at the moment.
+
+# Buff/Debuff
+1. Determine buff/debuff mechanisms that can be used. Different types could be time-based, per-encounter, daily, permanent.
+
